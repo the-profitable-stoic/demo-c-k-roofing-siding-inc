@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "C K Roofing & Siding Inc",
+    "phone": "+12158362398",
+    "category": "siding installer",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Siding Experts",
+      "heroSubline": "Protecting homes across Philadelphia with quality siding installation and repair. Decades of experience in the city's unique climate.",
+      "aboutTitle": "Decades of Philadelphia Siding Expertise",
+      "aboutText": [
+        "C K Roofing & Siding Inc was founded over a decade ago by local Philadelphia residents. We saw a need for reliable, honest siding services that understood the challenges of our city's row homes and unpredictable weather.",
+        "Our approach is simple: quality materials, skilled craftsmanship, and clear communication. We treat every project as if it were our own home, ensuring a durable and beautiful result that lasts for years to come.",
+        "We're deeply committed to the Philadelphia community. We source materials locally whenever possible and actively support local youth sports programs. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Philadelphia's unique architecture and weather patterns, ensuring the right siding solution for your home."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the best siding products from trusted manufacturers, guaranteeing long-lasting performance and beauty."
+        },
+        {
+          "title": "Skilled Installation",
+          "description": "Our experienced team of installers is dedicated to providing meticulous workmanship and attention to detail."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront pricing with no hidden fees, so you know exactly what to expect."
+        }
+      ],
+      "ctaHeadline": "Get a Free Siding Quote",
+      "ctaSubline": "Protect your home with durable, beautiful siding. Contact us today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable vinyl siding expertly installed for Philadelphia homes.",
+        "description": "Vinyl siding remains a popular choice for Philadelphia homeowners seeking a cost-effective and low-maintenance solution. We specialize in the professional installation of high-quality vinyl siding, ensuring a weather-tight seal that protects your home from the elements. Our team is skilled in handling the intricacies of Philadelphia's row homes and older structures, providing precise cuts and seamless installation that enhances curb appeal and protects against moisture damage. We offer a wide range of colors and styles to match your home's architecture and personal preferences. From initial consultation to final inspection, we are committed to providing a smooth and stress-free experience.\n\nWe handle all aspects of vinyl siding installation, including removal of old siding, preparation of the underlying surface, and meticulous installation of the new siding. We pay close attention to detail, ensuring proper flashing around windows and doors to prevent water infiltration. Our goal is to provide you with a siding solution that not only looks great but also provides long-lasting protection for your home.\n\nWith Philadelphia's freeze-thaw cycles, high-quality installation is essential to prevent cracking and warping. We use industry-leading techniques and materials to ensure that your vinyl siding stands up to the test of time. We also offer maintenance and repair services to keep your siding looking its best for years to come.",
+        "process": [
+          "Step 1: Consultation and Estimate - We assess your home and provide a detailed, transparent estimate.",
+          "Step 2: Material Selection - Choose from a wide range of vinyl siding colors and styles.",
+          "Step 3: Removal of Old Siding - We safely remove and dispose of your existing siding.",
+          "Step 4: Professional Installation - Our experienced team installs your new vinyl siding with precision and care."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Improved Energy Efficiency",
+          "Low Maintenance",
+          "Cost-Effective Protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation typically take?",
+            "answer": "The duration of a vinyl siding installation project depends on the size and complexity of your home, but most projects are completed within 1-2 weeks."
+          },
+          {
+            "question": "Is vinyl siding energy efficient?",
+            "answer": "Yes, vinyl siding can improve your home's energy efficiency by providing an extra layer of insulation, reducing heat loss in the winter and heat gain in the summer."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding is virtually maintenance-free and does not require painting. It can be easily cleaned with soap and water."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable and beautiful fiber cement siding installed by experienced professionals.",
+        "description": "Fiber cement siding offers the beauty of wood with the durability of cement, making it an excellent choice for Philadelphia homes. We are certified installers of leading fiber cement brands, ensuring a flawless installation that protects your home from the elements and enhances its value. Our team understands the unique challenges posed by Philadelphia's climate, including freeze-thaw cycles and humidity, and we use proven techniques to ensure a long-lasting and weather-resistant installation.\n\nFiber cement siding is known for its resistance to fire, insects, and rot, making it a smart investment for homeowners seeking long-term protection. We offer a wide range of styles and colors to complement your home's architecture, from traditional lap siding to modern vertical panels. Our team works closely with you to select the perfect siding solution for your needs and budget.\n\nWe take pride in our attention to detail and commitment to customer satisfaction. From proper flashing around windows and doors to precise cuts and seamless joints, we ensure that every aspect of your fiber cement siding installation is executed to the highest standards. We also offer maintenance and repair services to keep your siding looking its best for years to come.",
+        "process": [
+          "Step 1: Consultation and Design - We help you choose the perfect fiber cement siding for your home.",
+          "Step 2: Precise Measurement and Cutting - We ensure accurate cuts for a seamless installation.",
+          "Step 3: Professional Installation - Our certified installers meticulously install your new siding.",
+          "Step 4: Final Inspection - We conduct a thorough inspection to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Fire and Insect Resistance",
+          "Enhanced Home Value",
+          "Beautiful Aesthetic"
+        ],
+        "faq": [
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding typically has a higher upfront cost than vinyl siding, but its long-term durability and aesthetic appeal can make it a worthwhile investment."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-primed and ready to paint. We can provide professional painting services to ensure a long-lasting and beautiful finish."
+          },
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to protect your home from Philadelphia's harsh weather.",
+        "description": "Philadelphia's climate, with its freeze-thaw cycles and occasional Nor'easters, can take a toll on your siding. We offer comprehensive siding repair services to address any damage, from cracked panels to water leaks. Our experienced technicians are skilled in identifying and repairing all types of siding, including vinyl, fiber cement, and wood. We understand the importance of prompt and effective repairs to prevent further damage to your home's structure.\n\nWhether you have a few damaged panels or extensive siding damage, we can provide a cost-effective solution to restore your home's protection and curb appeal. We use high-quality materials and proven techniques to ensure a durable and long-lasting repair. We also offer preventative maintenance services to help you avoid costly repairs in the future.\n\nWe understand that siding damage can be stressful, which is why we offer prompt and reliable service. We'll work with you to assess the damage, provide a clear estimate, and complete the repairs as quickly as possible, minimizing disruption to your daily life.",
+        "process": [
+          "Step 1: Damage Assessment - We thoroughly inspect your siding to identify the extent of the damage.",
+          "Step 2: Repair Plan - We develop a customized repair plan to address your specific needs.",
+          "Step 3: Material Sourcing - We source high-quality materials to match your existing siding.",
+          "Step 4: Expert Repair - Our skilled technicians complete the repairs with precision and care."
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Restores Curb Appeal",
+          "Extends Siding Lifespan",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs that your siding needs repair include cracked or warped panels, water stains, mold or mildew growth, and loose or missing pieces."
+          },
+          {
+            "question": "Can you match the color of my existing siding?",
+            "answer": "Yes, we can match the color of your existing siding to ensure a seamless repair."
+          },
+          {
+            "question": "How long does a siding repair typically take?",
+            "answer": "The duration of a siding repair depends on the extent of the damage, but most repairs can be completed within a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Complete siding replacement services for improved protection and aesthetics.",
+        "description": "When siding is beyond repair or you're looking to upgrade your home's appearance and energy efficiency, we offer complete siding replacement services. We work with you to select the best siding option for your needs and budget, considering factors such as durability, aesthetics, and energy efficiency. Our experienced team handles all aspects of the replacement process, from removing your old siding to installing new, high-quality siding that will protect your home for years to come.\n\nWe understand that siding replacement is a significant investment, which is why we offer transparent pricing and flexible financing options. We'll work with you to create a plan that fits your budget and provides the best possible value. We are committed to providing a smooth and stress-free experience, from initial consultation to final inspection.\n\nWhether you're looking to replace damaged siding or simply upgrade your home's appearance, we have the expertise and experience to get the job done right. We are dedicated to providing exceptional customer service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Consultation and Planning - We help you choose the perfect siding for your needs and budget.",
+          "Step 2: Old Siding Removal - We safely remove and dispose of your existing siding.",
+          "Step 3: New Siding Installation - Our skilled team expertly installs your new siding.",
+          "Step 4: Final Inspection - We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Improved Home Value",
+          "Enhanced Energy Efficiency",
+          "Increased Curb Appeal",
+          "Long-Lasting Protection"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need siding replacement?",
+            "answer": "Signs that you may need siding replacement include widespread damage, rot, mold, and fading."
+          },
+          {
+            "question": "What types of siding do you offer?",
+            "answer": "We offer a wide range of siding options, including vinyl, fiber cement, and wood."
+          },
+          {
+            "question": "How long does siding replacement typically take?",
+            "answer": "The duration of a siding replacement project depends on the size and complexity of your home, but most projects are completed within 1-3 weeks."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-services",
+        "name": "Soffit and Fascia Services",
+        "shortDescription": "Protect your roof and home with expert soffit and fascia installation and repair.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, providing ventilation and protection against the elements. We offer comprehensive soffit and fascia services, including installation, repair, and replacement. Our experienced team understands the importance of proper ventilation to prevent moisture buildup and rot, and we use high-quality materials and proven techniques to ensure a long-lasting and effective installation.\n\nWe offer a variety of soffit and fascia options to match your home's architecture and personal preferences. Whether you need to repair damaged soffit and fascia or replace your entire system, we have the expertise and experience to get the job done right. We are committed to providing exceptional customer service and ensuring your complete satisfaction.\n\nProtect your home from water damage and ensure proper ventilation with our expert soffit and fascia services. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Inspection and Assessment - We assess your soffit and fascia to identify any damage or issues.",
+          "Step 2: Material Selection - We help you choose the best soffit and fascia options for your home.",
+          "Step 3: Professional Installation - Our skilled team expertly installs your new soffit and fascia.",
+          "Step 4: Final Inspection - We ensure your complete satisfaction with the finished product."
+        ],
+        "benefits": [
+          "Improved Ventilation",
+          "Protection Against Water Damage",
+          "Enhanced Curb Appeal",
+          "Extended Roof Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What is soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof."
+          },
+          {
+            "question": "Why is soffit and fascia important?",
+            "answer": "Soffit provides ventilation for your attic, preventing moisture buildup and rot, while fascia protects your roof from water damage and provides a finished look."
+          },
+          {
+            "question": "How do I know if my soffit and fascia needs repair?",
+            "answer": "Signs that your soffit and fascia needs repair include rot, water stains, and peeling paint."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation",
+        "shortDescription": "Protect your home's foundation with professional gutter installation services.",
+        "description": "Properly functioning gutters are crucial for diverting rainwater away from your home's foundation, preventing water damage and erosion. We offer professional gutter installation services, ensuring that your home is protected from the elements. Our experienced team uses high-quality materials and proven techniques to install seamless gutters that are both durable and aesthetically pleasing.\n\nWe offer a variety of gutter options to match your home's architecture and personal preferences. Whether you need to replace old, damaged gutters or install new gutters on a newly constructed home, we have the expertise and experience to get the job done right. We are committed to providing exceptional customer service and ensuring your complete satisfaction.\n\nProtect your home from water damage with our professional gutter installation services. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate your home's drainage needs.",
+          "Step 2: Gutter Selection - We help you choose the best gutter system for your home.",
+          "Step 3: Professional Installation - Our skilled team installs your new gutters with precision.",
+          "Step 4: Final Inspection - We ensure proper water flow and your complete satisfaction."
+        ],
+        "benefits": [
+          "Foundation Protection",
+          "Erosion Prevention",
+          "Water Damage Prevention",
+          "Enhanced Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "Why are gutters important?",
+            "answer": "Gutters divert rainwater away from your home's foundation, preventing costly water damage and erosion."
+          },
+          {
+            "question": "What types of gutters do you offer?",
+            "answer": "We offer a variety of gutter options, including seamless aluminum gutters, copper gutters, and galvanized steel gutters."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "It is recommended to clean your gutters at least twice a year, in the spring and fall."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc is proud to offer comprehensive siding installation services to homeowners and businesses throughout Philadelphia. We understand the unique architectural styles and weather challenges of the city, and we tailor our solutions to meet your specific needs and preferences. Whether you're looking to enhance your home's curb appeal, improve energy efficiency, or protect your property from the elements, our experienced team is here to help.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, wood, and more. Our skilled installers ensure precise and professional workmanship, guaranteeing a long-lasting and beautiful result. From historic neighborhoods to modern developments, we've worked on numerous projects across Philadelphia, earning a reputation for quality and reliability.",
+        "localContext": "Philadelphia, a vibrant city steeped in history, boasts distinct neighborhoods and diverse architectural styles. We understand the importance of preserving the city's character while providing modern siding solutions.",
+        "nearbyAreas": [
+          "Camden",
+          "Upper Darby",
+          "Bensalem"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc extends its expert siding services to the residents of Upper Darby. We recognize the diverse housing styles within Upper Darby, from classic row homes to single-family residences, and tailor our siding solutions to suit each unique property.\n\nOur commitment to quality craftsmanship and customer satisfaction ensures that your siding project will be completed to the highest standards. We offer a variety of siding options, including vinyl, fiber cement, and wood, allowing you to choose the perfect material to enhance the beauty and durability of your home. Let us help you improve your home's energy efficiency and curb appeal with our professional siding installation services.",
+        "localContext": "Upper Darby, a bustling township bordering Philadelphia, features a mix of residential and commercial areas. We are familiar with the local building codes and aesthetic preferences.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Drexel Hill",
+          "Clifton Heights"
+        ]
+      },
+      {
+        "city": "Bensalem",
+        "slug": "bensalem-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc is a trusted provider of siding installation services in Bensalem, PA. We understand the specific needs of homeowners in this area, offering durable and attractive siding options to protect and enhance their homes. Our team is experienced in working with a variety of siding materials, ensuring that your project is completed efficiently and effectively.\n\nWe are committed to providing exceptional customer service and top-quality workmanship. Whether you're building a new home or upgrading your existing siding, we have the expertise and resources to meet your needs. We work closely with you to select the right siding material and ensure a seamless installation process.",
+        "localContext": "Bensalem, a growing suburb of Philadelphia, features a mix of residential developments and commercial centers. We are equipped to handle siding projects of all sizes in this area.",
+        "nearbyAreas": [
+          "Philadelphia",
+          "Trevose",
+          "Croydon"
+        ]
+      },
+      {
+        "city": "Norristown",
+        "slug": "norristown-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc proudly serves the Norristown community with top-notch siding installation services. We understand the architectural diversity of Norristown, from historic homes to modern constructions, and offer a wide range of siding options to complement any style. Our experienced team is dedicated to providing exceptional service and quality workmanship.\n\nWe are committed to helping homeowners in Norristown enhance the beauty and value of their homes with durable and attractive siding. Whether you're looking for vinyl, fiber cement, or wood siding, we have the expertise to guide you through the selection process and ensure a flawless installation. Trust us to protect your home from the elements and improve its curb appeal.",
+        "localContext": "Norristown, the county seat of Montgomery County, is a vibrant town with a mix of residential and commercial properties. We are familiar with the local building regulations and design preferences.",
+        "nearbyAreas": [
+          "Bridgeport",
+          "Conshohocken",
+          "King of Prussia"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc is your local expert for siding installation in Drexel Hill, PA. We've been serving the community for years, providing homeowners with high-quality siding solutions that enhance the beauty and protection of their homes. Our team is experienced in working with all types of siding, including vinyl, fiber cement, and wood, and we're committed to delivering exceptional results.\n\nWe understand that choosing the right siding can be a daunting task. That's why we offer personalized consultations to help you select the perfect material and style to match your home's architecture and your personal preferences. With our expert installation services, you can be confident that your new siding will last for years to come.",
+        "localContext": "Drexel Hill, a charming suburb of Philadelphia, is known for its tree-lined streets and well-maintained homes. We appreciate the community's commitment to quality and aesthetics.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Havertown",
+          "Springfield"
+        ]
+      },
+      {
+        "city": "Chester",
+        "slug": "chester-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc proudly serves the city of Chester, PA, providing top-quality siding installation and repair services. We understand the unique challenges that Chester homeowners face, from aging homes to exposure to the elements, and we offer solutions that are both durable and aesthetically pleasing.\n\nOur team is experienced in working with a wide range of siding materials, including vinyl, fiber cement, and wood, and we're committed to providing exceptional customer service. We'll work closely with you to choose the right siding for your home and ensure a flawless installation that will protect your investment for years to come. Whether you're looking to improve your home's curb appeal or increase its energy efficiency, we're here to help.",
+        "localContext": "Chester, a historic city on the Delaware River, is undergoing revitalization and renewal. We are committed to helping homeowners improve their properties and contribute to the city's growth.",
+        "nearbyAreas": [
+          "Trainer",
+          "Upland",
+          "Brookhaven"
+        ]
+      },
+      {
+        "city": "Levittown",
+        "slug": "levittown-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc is a leading provider of siding installation services in Levittown, PA. We understand the unique characteristics of Levittown homes and offer siding solutions that are both affordable and durable. Our team is experienced in working with a variety of siding materials, including vinyl, aluminum, and wood, and we're committed to providing exceptional customer service.\n\nWe know that choosing the right siding can be a big decision. That's why we offer free consultations to help you select the perfect material and style for your home. We'll also provide you with a detailed estimate so you know exactly what to expect. With our expert installation services, you can be confident that your new siding will look great and protect your home for years to come.",
+        "localContext": "Levittown, a planned community known for its affordable housing, is a great place to raise a family. We are proud to serve the residents of Levittown and help them maintain their homes.",
+        "nearbyAreas": [
+          "Bristol",
+          "Fairless Hills",
+          "Langhorne"
+        ]
+      },
+      {
+        "city": "King of Prussia",
+        "slug": "king-of-prussia-pa",
+        "state": "PA",
+        "content": "C K Roofing & Siding Inc is proud to offer its expert siding services to the residents and businesses of King of Prussia. We understand the diverse architectural styles present in this area, from modern commercial buildings to traditional homes, and we tailor our siding solutions to meet the specific needs of each property. Our team is dedicated to providing high-quality workmanship and exceptional customer service.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, and wood, allowing you to choose the perfect material to enhance the beauty and durability of your building. Whether you're looking to improve your property's curb appeal, increase its energy efficiency, or protect it from the elements, we're here to help. We are committed to delivering superior results that exceed your expectations.",
+        "localContext": "King of Prussia, a major commercial and retail hub in the Philadelphia suburbs, is a dynamic and growing community. We are familiar with the local building codes and regulations.",
+        "nearbyAreas": [
+          "Norristown",
+          "Wayne",
+          "Conshohocken"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "C K Roofing & Siding did an amazing job installing new vinyl siding on my row home in South Philly. They were professional, efficient, and the siding looks fantastic! The crew was very careful around my garden, which I appreciated. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair Services",
+        "text": "I had some storm damage on my fiber cement siding in Chestnut Hill. C K Roofing & Siding came out quickly and repaired the damaged sections seamlessly. The price was fair, and the work was excellent.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "We needed new gutters installed on our Victorian twin in West Philly. C K Roofing & Siding provided a fast estimate and completed the job within a week. The new gutters look great and are working perfectly so far!",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Soffit and Fascia Services",
+        "text": "These guys are pros. Had them replace some rotting soffit and fascia near my roof. Quick work and very reasonable price. I'd call them again.",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Emily C.",
+        "rating": 4,
+        "service": "Fiber Cement Siding Installation",
+        "text": "Had fiber cement siding installed on my new construction. The crew was very professional, but the project took a bit longer than expected. The finished product looks fantastic and I'm very happy with the results.",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "Thomas P.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "I decided to replace my old, faded vinyl siding with new, energy-efficient vinyl siding. C K Roofing & Siding provided a great selection of colors and styles, and the installation team was very skilled. My home looks brand new!",
+        "date": "2025-04-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "C K Roofing & Siding Inc | Philadelphia, PA",
+        "description": "Philadelphia's leading siding installer. Vinyl, fiber cement, repair & replacement. Free quotes. Protect your home today!"
+      },
+      "about": {
+        "title": "About C K Roofing & Siding Inc",
+        "description": "Learn more about C K Roofing & Siding Inc's history, values, and commitment to the Philadelphia community."
+      },
+      "services": {
+        "title": "Our Siding Services",
+        "description": "Explore our comprehensive siding services, including installation, repair, and replacement. Serving Philadelphia and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact C K Roofing & Siding Inc",
+        "description": "Get in touch with C K Roofing & Siding Inc for a free siding quote or to schedule a consultation."
+      },
+      "reviews": {
+        "title": "Customer Reviews",
+        "description": "Read what our satisfied customers have to say about C K Roofing & Siding Inc's quality workmanship and exceptional service."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Find out if C K Roofing & Siding Inc serves your area. Providing siding services in Philadelphia and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "875+",
+      "satisfaction": "98%",
+      "teamSize": "22+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-services": "/images/service-soffit-and-fascia-services.webp",
+      "gutter-installation": "/images/service-gutter-installation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-services": {
+        "src": "/images/service-soffit-and-fascia-services.webp",
+        "srcset": "/images/service-soffit-and-fascia-services-400w.webp 400w, /images/service-soffit-and-fascia-services-800w.webp 800w, /images/service-soffit-and-fascia-services-1200w.webp 1200w, /images/service-soffit-and-fascia-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
